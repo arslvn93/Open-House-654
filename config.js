@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "463 Burbrook Pl",
     "city": "London",
@@ -91,6 +91,6 @@
   "deploymentInfo": {
     "repoName": "Open-House-654",
     "repoUrl": "https://github.com/arslvn93/Open-House-654",
-    "siteId": "1033966878"
+    "siteId": "4b57ea7c-0704-4ca5-8c89-a19f7d6b6a89"
   }
 }
