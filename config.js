@@ -42,10 +42,6 @@ const config = {
       {
         "icon": "fas fa-video",
         "text": "Virtual Tour"
-      },
-      {
-        "icon": "fas fa-map",
-        "text": "Neighbourhood Guide"
       }
     ]
   },
