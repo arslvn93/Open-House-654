@@ -52,7 +52,7 @@ const config = {
   "meta": {
     "pageTitlePrefix": "🏡 Peter Stubnya Open House",
     "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://onereal.wpenginepowered.com/pages/privacy-policy/"
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
