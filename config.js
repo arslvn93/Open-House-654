@@ -144,6 +144,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Open-House-654",
     "siteId": "4b57ea7c-0704-4ca5-8c89-a19f7d6b6a89",
     "netlifyUrl": "",
-    "tag": ""
+    "tag": "Open House 463 Burbrook pl"
   }
 };
