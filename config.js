@@ -9,7 +9,7 @@ const config = {
   "realtor": {
     "fullName": "Peter Stubnya",
     "title": "REALTOR®",
-    "phone": "1 519-239-5539",
+    "phone": "+1 365–800–6262",
     "email": "peter@pickpete.ca",
     "bio": "When buying or selling a home in Middlesex and Waterloo Region and the surrounding area, the right Realtor makes all the difference. I have the right daily habits, attitude and skills to follow through with the tasks at hand. Real estate is about people, location and numbers that make sense. Let my successful experience, extensive knowledge of the London and Waterloo Region markets, the intricacies and legalities of the home or properties buying and selling process, the nuances and cultures of the neighbourhoods, and negotiating skills that have been honed on over the years work to successfully meet your goals. My personal uses of services in my vast network of professionals such as home stagers, photographers, mortgage brokers, home inspectors, lawyers and others on my team to work for you as well. I communicate with you in whichever way works best for you whether in person, via phone call, and/or prefer text or emailing.",
     "photoUrl": "https://cdn.lofty.com/image/fs/user-info/2025321/17/w1100_original_b0c75d56-a15c-4d52-a0fd-15bb38ff7d0a-jpeg.webp",
