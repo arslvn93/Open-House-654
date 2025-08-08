@@ -19,9 +19,9 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "",
-    "logoUrl": "",
-    "address": ""
+    "name": "Real Broker Ontario LTD",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/5f768b78dc5a3234c61030ae/1621350328006-DHY98QDLHQSC5H8K1DE5/real+broker+logo.png",
+    "address": "1- 389 Queens Ave, London, ON, N6B 1X5, CAN"
   },
   "openHouse": {
     "eventDate": "2025-08-09",
